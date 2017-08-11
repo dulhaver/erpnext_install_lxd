@@ -1,4 +1,4 @@
-## install erpnext in a lxc container with lxd
+# install erpnext in a lcd/lxc container
 
 ### on your lxd host
 
